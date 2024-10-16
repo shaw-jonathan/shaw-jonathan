@@ -1,4 +1,4 @@
-Design Engineer jumping into Data Science.
+Design & Telecom Engineer jumping into Data Science.
 
 Currently Learning: Data Science @ Concordia Bootcamps
 
