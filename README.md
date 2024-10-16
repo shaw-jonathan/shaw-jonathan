@@ -1,5 +1,8 @@
-## Hi there 👋
+Design Engineer jumping into Data Science.
 
+Currently Learning: Data Science @ Concordia Bootcamps
+
+How to reach me: https://www.linkedin.com/in/jonathan-shaw-a539521a2/
 <!--
 **shaw-jonathan/shaw-jonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
